@@ -34,6 +34,6 @@ You will create a Jupyter Notebook using IBM Watson Studio. You can choose any l
     Are there, or does there appear to be, at least 5 Markdown cells and 1 code cell? 
     Is the criteria for each cell fulfilled, as described in the "Guidelines for Submission"?
 
-####You will not be judged on:
+#### You will not be judged on:
 *Your English language, including spelling or grammatical mistakes.
 *The content of any text or image(s) or where a link is hyperlinked to.
